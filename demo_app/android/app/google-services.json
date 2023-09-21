@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859564227817",
+    "project_id": "cng-demo-f0e95",
+    "storage_bucket": "cng-demo-f0e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859564227817:android:e060a4e672d976c0a8c478",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2WN3kE3x9PHwM7M8-0UgQt3d5H0oPdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
